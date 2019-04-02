@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Tanketter</string>
+    <string name="scan_wifi">Scan Wifi</string>
+    <string name="title">TextView</string>
+
+    <string name="title_activity_fullscreen_controll">FullscreenControllActivity</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="a3_optionsbutton">a3_optionsButton</string>
+    <string name="a3_left_up_button">a3_left_up_button</string>
+    <string name="a3_left_down_button">a3_left_down_button</string>
+    <string name="a3_right_up_button">a3_right_up_button</string>
+    <string name="a3_right_down_button">a3_right_down_button</string>
+</resources>
