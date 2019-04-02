@@ -24,6 +24,7 @@ public class FullscreenControllActivity extends AppCompatActivity {
     private ImageButton btnRigh;
 
     private ImageButton btnMore;
+    private int spinner;
 
 
     @SuppressLint("ClickableViewAccessibility")
