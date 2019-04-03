@@ -11,4 +11,5 @@
     <string name="a3_left_down_button">a3_left_down_button</string>
     <string name="a3_right_up_button">a3_right_up_button</string>
     <string name="a3_right_down_button">a3_right_down_button</string>
+    <string name="menu_settings">menu</string>
 </resources>

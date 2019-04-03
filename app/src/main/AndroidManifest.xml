@@ -19,7 +19,8 @@
             android:name=".FullscreenControllActivity"
             android:configChanges="orientation|keyboardHidden|screenSize"
             android:label="@string/title_activity_fullscreen_controll"
-            android:theme="@style/FullscreenTheme"></activity>
+            android:theme="@style/FullscreenTheme" />
+        <activity android:name=".JoystickActivity"/>
         <activity android:name=".ListDevicesActivity" />
         <activity android:name=".MainActivity">
             <intent-filter>

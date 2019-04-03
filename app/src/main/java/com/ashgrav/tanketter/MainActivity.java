@@ -41,7 +41,7 @@ public class MainActivity extends AppCompatActivity {
                         break;
                     }
                 }
-                System.out.println(network.getDevices().size());
+//                System.out.println(network.getDevices().size());
                 deviceList.addAll(network.getDevices());
                 startNextActivity();
                 }

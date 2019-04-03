@@ -46,7 +46,8 @@ public class ListDevicesActivity extends AppCompatActivity {
             public void onClick(View view, int position) {
                 Device device = deviceList.get(position);
                 Toast.makeText(getApplicationContext(), device.getHostname() + " is selected!", Toast.LENGTH_SHORT).show();
-                Intent intent = new Intent(getApplicationContext(),FullscreenControllActivity.class);
+    //            Intent intent = new Intent(getApplicationContext(),FullscreenControllActivity.class);
+                Intent intent = new Intent(getApplicationContext(),JoystickActivity.class);
                 intent.putExtra(EXTRA_DEVICE,device);
                 startActivity(intent);
             }
